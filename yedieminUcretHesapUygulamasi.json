@@ -1,7 +1,10 @@
-[
-  "Motorsiklet, Motorlu Bisiklet (Mopet, Mobilet)",
-  "Otomobil ve Diğer Yük Vasıtaları",
-  "Kamyonet, Minibüs, Midibüs, Arazi Taşıtı",
-  "Kamyon, Otobüs, Çekici (Tır)",
-  "İş Makineleri, Römork, Çekici + Römork"
-]
+{
+  "vehicleList": [
+    "Motorsiklet, Motorlu Bisiklet (Mopet, Mobilet)",
+    "Otomobil ve Diğer Yük Vasıtaları",
+    "Kamyonet, Minibüs, Midibüs, Arazi Taşıtı",
+    "Kamyon, Otobüs, Çekici (Tır)",
+    "İş Makineleri, Römork, Çekici + Römork"
+  ],
+  "priceList": "20,00|16,00|12,00|40,00|36,00|24,00|44,00|40,00|28,00|60,00|48,00|36,00|72,00|60,00|52,00|31 Aralık 2022|32060"
+}
